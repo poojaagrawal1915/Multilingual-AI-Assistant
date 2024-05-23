@@ -1,1 +1,1 @@
-"Adding log"
+"Adding log in template"
